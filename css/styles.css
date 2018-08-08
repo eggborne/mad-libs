@@ -1,0 +1,23 @@
+body {
+  font-size: 2em;
+  text-align: center;
+}
+form {
+  margin:30px;
+}
+#forms {
+  width: 800px;
+  margin: 0 auto;
+  text-align: right;
+}
+
+#output {
+  padding:50px;
+  border: 2px solid gray;
+  width: 500px;
+  height: 500px;
+  margin-top:200px;
+  margin: 0 auto;
+  /* background-color: green; */
+  /* display: none; */
+}
