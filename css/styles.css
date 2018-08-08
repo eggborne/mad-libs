@@ -19,5 +19,7 @@ form {
   margin-top:200px;
   margin: 0 auto;
   /* background-color: green; */
-  /* display: none; */
+  transform: scaleX(0) scaleY(0);
+  opacity: 0;
+  transition: all 500ms ease, opacity 3000ms ease;
 }
